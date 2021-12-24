@@ -100,5 +100,9 @@ namespace Proje_Hastane
             MessageBox.Show("Randevunuz Alınmıştır.", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
+        private void btnCikis_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

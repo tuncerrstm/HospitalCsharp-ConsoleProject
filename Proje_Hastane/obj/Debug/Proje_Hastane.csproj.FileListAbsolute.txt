@@ -43,3 +43,26 @@ D:\Code\Eski Laptop Projeler\SSD Proje Yedekleri C#\Projects\uDemy projesi\Proje
 D:\Code\Eski Laptop Projeler\SSD Proje Yedekleri C#\Projects\uDemy projesi\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CoreCompileInputs.cache
 D:\Code\Eski Laptop Projeler\SSD Proje Yedekleri C#\Projects\uDemy projesi\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.exe
 D:\Code\Eski Laptop Projeler\SSD Proje Yedekleri C#\Projects\uDemy projesi\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\bin\Debug\Proje_Hastane.exe
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\bin\Debug\Proje_Hastane.pdb
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.csprojAssemblyReference.cache
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.FrmBilgiDuzenle.resources
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorPaneli.resources
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorBilgiDuzenle.resources
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorDetay.resources
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorGiris.resources
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.FrmBrans.resources
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDuyurular.resources
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.FrmGirisler.resources
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaDetay.resources
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaGiris.resources
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaKayit.resources
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.FrmRandevuListesi.resources
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.FrmSekreterGiris.resources
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.Properties.Resources.resources
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.SekreterDetay.resources
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.GenerateResource.cache
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CoreCompileInputs.cache
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+C:\Users\Tuncer Rüstemoğlu\Documents\GitHub\HospitalCsharp-ConsoleProject\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
