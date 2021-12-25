@@ -1,6 +1,5 @@
 # HospitalCsharp-ConsoleProject
 
-# MvcProject
 ## Tools & Infrastructures & Technologies Used
 
 - C# Programming Language
