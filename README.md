@@ -2,9 +2,9 @@
 
 ## 3 Panelli Hastane Takip Projesi
 
-- 1. Hasta Girişi : Randevu Paneli
-- 2. Doktor Girişi : Randevuları Görüntüleme 
-- 3. Sekteret Girişi : Randevuları Onaylama, Yeni Doktor Kaydı
+-. Hasta Girişi : Randevu Paneli
+-. Doktor Girişi : Randevuları Görüntüleme 
+-. Sekteret Girişi : Randevuları Onaylama, Yeni Doktor Kaydı
 
   Tasarladığım proje üç ana başlıktan oluşmaktadır. Algoritma şöyle çalışıyor, hasta kayıt olabiliyor. 
   İstediği uzmanlık alanından ve o alandaki seçtiği doktora rahatsızlığını yazabiliyor.
