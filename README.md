@@ -10,8 +10,6 @@
 
 Our project was created using the code first methodology.
 
-<img src="https://media.giphy.com/media/3oz8xTNxIYYo7sblK0/giphy.gif" align ="right" >
-
 ## Hi there, I'm Tundzher. :blush:
 
 #### | C#, Java, React Developer |
@@ -40,7 +38,7 @@ Our project was created using the code first methodology.
 </details>
 <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuncerrstm&layout=compact" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuncerrstm/HospitalCsharp-ConsoleProject/&layout=compact" >
 </details>
 
 <img src="https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif" align ="left" width="350" height="250"  >
