@@ -1,6 +1,6 @@
 # HospitalCsharp-ConsoleProject
 
-## 3 :- Panelli Hastane Takip Projesi
+## 3 - Panelli Hastane Takip Projesi
 
 -1. Hasta Girişi : Randevu Paneli
 
