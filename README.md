@@ -1,5 +1,23 @@
 # HospitalCsharp-ConsoleProject
 
+## 3 Panelli Hastane Takip Projesi
+
+- 1. Hasta Girişi : Randevu Paneli
+- 2. Doktor Girişi : Randevuları Görüntüleme 
+- 3. Sekteret Girişi : Randevuları Onaylama, Yeni Doktor Kaydı
+
+  Tasarladığım proje üç ana başlıktan oluşmaktadır. Algoritma şöyle çalışıyor, hasta kayıt olabiliyor. 
+  İstediği uzmanlık alanından ve o alandaki seçtiği doktora rahatsızlığını yazabiliyor.
+  Kendi üyeliğini ve randevusunu güncelleme ve yeni randevu alma gibi işlemleri gerçekleştirebiliyor.
+  
+  Doktor kendi üyelik ekranını görüntülediğinde, kendi profilindeki güncellemeleri ve hastaları görüntüleyebiliyor.
+  Gelecek randevular vs.
+  
+  Sekreter ise tüm projeye hakim. Alanlar üzerinde hakimiyeti var doktor şifresini unutursa yada yeni gelen bir doktora
+  profil tanımlaması yapabiliyor. Hastadan gelen randevuları canlıya alabiliyor veya yeni randevuyu oluşturabiliyor.
+  Doktor ve diğer çalışanlara duyurular atabiliyor. Tabi ki CRUD işlemlerini de gerçekleştirebiliyor.
+  
+
 ## Tools & Infrastructures & Technologies Used
 
 - C# Programming Language
