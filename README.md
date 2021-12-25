@@ -30,9 +30,7 @@
 Our project was created using the code first methodology.
 
 ## Hi there, I'm Tundzher. :blush:
-<br/>
-<img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/image.gif" align ="left" width="350" height="250"  >
-<br/>
+
 #### | C#, Java, React Developer |
 
 <font color="red"> Coffee is how I keep up with! `<code />` </font>
@@ -52,6 +50,7 @@ Our project was created using the code first methodology.
 
 
 <br />
+<img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/image.gif" align ="left" width="350" height="250"  >
 
 <details>
 <summary>:bulb: Github Stats</summary>
