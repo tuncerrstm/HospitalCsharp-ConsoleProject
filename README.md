@@ -48,9 +48,8 @@ Our project was created using the code first methodology.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="25" height="25" />
 
 
-
 <br />
-<img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/image.gif" align ="left" width="350" height="250"  >
+
 
 <details>
 <summary>:bulb: Github Stats</summary>
@@ -61,7 +60,4 @@ Our project was created using the code first methodology.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuncerrstm&layout=compact" >
 </details>
 
-
-[twitter]: https://twitter.com/tuncerRstm
-[linkedin]: https://www.linkedin.com/in/tuncer-r%C3%BCstemo%C4%9Flu-74917b187/
-[instagram]:https://www.instagram.com/toniochmuzi/
+<img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/image.gif" align ="left" width="350" height="250"  >
