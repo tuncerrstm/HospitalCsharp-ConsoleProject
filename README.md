@@ -60,7 +60,7 @@ Our project was created using the code first methodology.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuncerrstm&layout=compact" >
 </details>
 
-<img src="https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif" align ="left" width="350" height="250"  >
+<img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/image.gif" align ="left" width="350" height="250"  >
 
 [twitter]: https://twitter.com/tuncerRstm
 [linkedin]: https://www.linkedin.com/in/tuncer-r%C3%BCstemo%C4%9Flu-74917b187/
