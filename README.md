@@ -19,6 +19,30 @@
   profil tanımlaması yapabiliyor. Hastadan gelen randevuları canlıya alabiliyor veya yeni randevuyu oluşturabiliyor.
   Doktor ve diğer çalışanlara duyurular atabiliyor. Tabi ki CRUD işlemlerini de gerçekleştirebiliyor.
   
+  Örnek Sekreter Girişi İçin:
+
+Kullanıcı: 55555555555
+
+Şifre: 5555
+
+---------------------------
+
+Örnek Doktor Girişi İçin:
+
+Kullanıcı: 33333333333
+
+Şifre: 3333
+
+---------------------------
+
+Örnek Hasta Girişi İçin:
+
+Kullanıcı: 11111111111
+
+Şifre: 2222
+
+Deneyebilirsiniz.
+  
 
 ## Tools & Infrastructures & Technologies Used
 
