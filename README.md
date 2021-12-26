@@ -60,4 +60,11 @@ Our project was created using the code first methodology.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuncerrstm&layout=compact" >
 </details>
 
+
+# Proje Görselleri
+
+## Hastane Giriş Panel ve Hasta Paneli
+<img src="https://i.ibb.co/CBKLMJw/hasta-Giris2.png" align ="left" width="450" height="350"  >
+
+
 <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/GIF/image.gif" align ="left" width="350" height="250"  >
