@@ -11,7 +11,7 @@ namespace Proje_Hastane
     {
         public SqlConnection baglanti()
         {
-            SqlConnection baglan = new SqlConnection("Data Source=DESKTOP-DFIUPSD\\SQLEXPRESS;Initial Catalog=HastaneProje;Integrated Security=True");
+            SqlConnection baglan = new SqlConnection("Data Source=Server01895-AU\\SQLEXPRESS;Initial Catalog=HastaneProje;Integrated Security=True");
             baglan.Open();
             return baglan;
         }
