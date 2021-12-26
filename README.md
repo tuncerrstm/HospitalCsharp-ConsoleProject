@@ -19,7 +19,8 @@
   profil tanımlaması yapabiliyor. Hastadan gelen randevuları canlıya alabiliyor veya yeni randevuyu oluşturabiliyor.
   Doktor ve diğer çalışanlara duyurular atabiliyor. Tabi ki CRUD işlemlerini de gerçekleştirebiliyor.
   
-  Örnek Sekreter Girişi İçin:
+---------------------------
+Örnek Sekreter Girişi İçin:
 
 Kullanıcı: 55555555555
 
