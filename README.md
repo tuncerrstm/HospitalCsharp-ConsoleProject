@@ -67,5 +67,5 @@ Our project was created using the code first methodology.
 # Proje Görselleri
 
 ## Hastane Giriş Panel ve Hasta Paneli
-<img src="https://i.ibb.co/CBKLMJw/hasta-Giris2.png" align ="left" width="450" height="350"  >
+<img src="https://i.ibb.co/CBKLMJw/hasta-Giris2.png" width="450" height="350"  >
 
